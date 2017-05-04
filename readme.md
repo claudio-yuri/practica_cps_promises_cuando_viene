@@ -1,4 +1,4 @@
-#Propuesta de TP: Proximo Bus
+# Propuesta de TP: Proximo Bus
 
 Este TP consiste en detectar y corregir las fallas tanto arquitecturales como de implementacion, en este caso se puede optar por usar tanto cps como promises.
 
